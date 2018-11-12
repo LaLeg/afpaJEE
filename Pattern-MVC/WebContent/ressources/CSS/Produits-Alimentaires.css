@@ -1,0 +1,38 @@
+.ListeNosProduits {
+    color: darkgreen;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* #EauxMinerales:hover{
+    width: 500px;
+    height: 200px;
+    border: 1px solid;
+*/
+.produit:hover {
+    border: 1px solid red;
+}
+
+.produit {
+    border: 1px solid white;
+}
+
+.produit {
+    display: inline-block;
+    text-align: center;
+}
+
+.prix {
+    margin-left: 200px;
+    position: absolute;
+}
+.ImageProduit{
+    width: 300px;
+    height: 300px;
+
+
+}
+#produits-alimentaires{
+    width: 70%;
+    margin: auto;
+}
